@@ -57,14 +57,3 @@ Grab the latest from [Releases](https://github.com/duckmartians/G-Labs-Music-For
 
 Settings live in the OS per-user data folder (`%APPDATA%\G-Labs Music Forge` on Windows, `~/Library/Application Support/G-Labs Music Forge` on macOS). Results default to `Documents/G-Labs Music Forge`.
 
-## Development
-
-```bash
-npm run install:all          # root + frontend + backend
-# Python engine (one-time): see docs/ENGINE-BUILD.md
-npm run dev                  # backend :3002 + Vite :5179 — open http://localhost:5179
-npm run dev:app              # the same, inside the real Electron window
-npm test
-```
-
-Build: `./build_mac_arm64.sh` (macOS DMG) · `build-exe.bat` on Windows (NSIS + zip). The Python engine ships as a PyInstaller onedir under `bin/engine/` — instructions in [docs/ENGINE-BUILD.md](docs/ENGINE-BUILD.md).

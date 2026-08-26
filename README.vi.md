@@ -57,14 +57,3 @@ Tải bản mới nhất tại [Releases](https://github.com/duckmartians/G-Labs
 
 Thiết lập lưu ở thư mục dữ liệu người dùng của hệ điều hành (`%APPDATA%\G-Labs Music Forge` trên Windows, `~/Library/Application Support/G-Labs Music Forge` trên macOS). Kết quả mặc định vào `Documents/G-Labs Music Forge`.
 
-## Phát triển
-
-```bash
-npm run install:all          # root + frontend + backend
-# Engine Python (một lần): xem docs/ENGINE-BUILD.md
-npm run dev                  # backend :3002 + Vite :5179 — mở http://localhost:5179
-npm run dev:app              # như trên, trong cửa sổ Electron thật
-npm test
-```
-
-Build: `./build_mac_arm64.sh` (DMG macOS) · `build-exe.bat` trên Windows (NSIS + zip). Engine Python đóng gói dạng PyInstaller onedir trong `bin/engine/` — hướng dẫn ở [docs/ENGINE-BUILD.md](docs/ENGINE-BUILD.md).
