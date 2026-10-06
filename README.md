@@ -22,8 +22,8 @@ Download the latest build from **[Releases](https://github.com/duckmartians/G-La
 
 | Your machine | Download | Notes |
 |---|---|---|
-| 🪟 **Windows 10/11 (64-bit)** | `GLabsMusicForge-<version>-setup.exe` | Installer. The engine runs on the CPU, no graphics card needed |
-| 🍎 **Mac with Apple chip (M1/M2/M3/M4)** | `GLabsMusicForge-<version>-arm64.dmg` | Stem splitting is GPU-accelerated |
+| 🪟 **Windows 10/11 (64-bit)** | [`GLabsMusicForge-<version>-setup.exe`](https://github.com/duckmartians/G-Labs-Music-Forge/releases/latest) | Installer. The engine runs on the CPU, no graphics card needed |
+| 🍎 **Mac with Apple chip (M1/M2/M3/M4)** | [`GLabsMusicForge-<version>-arm64.dmg`](https://github.com/duckmartians/G-Labs-Music-Forge/releases/latest) | Stem splitting is GPU-accelerated |
 
 > There is **no Intel Mac build** yet. The arm64 build will not open on an Intel Mac.
 

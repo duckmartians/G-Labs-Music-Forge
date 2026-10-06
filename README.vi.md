@@ -22,8 +22,8 @@ Tải bản mới nhất từ **[Releases](https://github.com/duckmartians/G-Lab
 
 | Máy của bạn | Tải tệp | Ghi chú |
 |---|---|---|
-| 🪟 **Windows 10/11 (64-bit)** | `GLabsMusicForge-<phiên bản>-setup.exe` | Bộ cài. Engine chạy bằng CPU, không cần card đồ hoạ |
-| 🍎 **Mac chip Apple (M1/M2/M3/M4)** | `GLabsMusicForge-<phiên bản>-arm64.dmg` | Tách stem được tăng tốc GPU |
+| 🪟 **Windows 10/11 (64-bit)** | [`GLabsMusicForge-<phiên bản>-setup.exe`](https://github.com/duckmartians/G-Labs-Music-Forge/releases/latest) | Bộ cài. Engine chạy bằng CPU, không cần card đồ hoạ |
+| 🍎 **Mac chip Apple (M1/M2/M3/M4)** | [`GLabsMusicForge-<phiên bản>-arm64.dmg`](https://github.com/duckmartians/G-Labs-Music-Forge/releases/latest) | Tách stem được tăng tốc GPU |
 
 > **Chưa có bản cho Mac chip Intel.** Bản arm64 sẽ không mở được trên máy Intel.
 
