@@ -8,8 +8,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/duckmartians/G-Labs-Music-Forge/releases/latest"><img alt="Download for Windows" src="https://img.shields.io/badge/Download-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>&nbsp;
-  <a href="https://github.com/duckmartians/G-Labs-Music-Forge/releases/latest"><img alt="Download for macOS (Apple Silicon)" src="https://img.shields.io/badge/Download-macOS%20Apple%20Silicon-000000?style=for-the-badge&logo=apple&logoColor=white"></a>
+  <a href="https://github.com/duckmartians/G-Labs-Music-Forge/releases/latest/download/G-Labs-Music-Forge-setup.exe"><img alt="Download for Windows" src="https://img.shields.io/badge/Download-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>&nbsp;
+  <a href="https://github.com/duckmartians/G-Labs-Music-Forge/releases/latest/download/G-Labs-Music-Forge-mac-arm64.dmg"><img alt="Download for macOS (Apple Silicon)" src="https://img.shields.io/badge/Download-macOS%20Apple%20Silicon-000000?style=for-the-badge&logo=apple&logoColor=white"></a>
 </p>
 
 ---
@@ -22,8 +22,8 @@ Download the latest build from **[Releases](https://github.com/duckmartians/G-La
 
 | Your machine | Download | Notes |
 |---|---|---|
-| 🪟 **Windows 10/11 (64-bit)** | [`GLabsMusicForge-<version>-setup.exe`](https://github.com/duckmartians/G-Labs-Music-Forge/releases/latest) | Installer. The engine runs on the CPU, no graphics card needed |
-| 🍎 **Mac with Apple chip (M1/M2/M3/M4)** | [`GLabsMusicForge-<version>-arm64.dmg`](https://github.com/duckmartians/G-Labs-Music-Forge/releases/latest) | Stem splitting is GPU-accelerated |
+| 🪟 **Windows 10/11 (64-bit)** | [`G-Labs-Music-Forge-setup.exe`](https://github.com/duckmartians/G-Labs-Music-Forge/releases/latest/download/G-Labs-Music-Forge-setup.exe) | Installer. The engine runs on the CPU, no graphics card needed |
+| 🍎 **Mac with Apple chip (M1/M2/M3/M4)** | [`G-Labs-Music-Forge-mac-arm64.dmg`](https://github.com/duckmartians/G-Labs-Music-Forge/releases/latest/download/G-Labs-Music-Forge-mac-arm64.dmg) | Stem splitting is GPU-accelerated |
 
 > There is **no Intel Mac build** yet. The arm64 build will not open on an Intel Mac.
 
@@ -32,7 +32,7 @@ Download the latest build from **[Releases](https://github.com/duckmartians/G-La
 <details open>
 <summary><b>🪟 On Windows</b></summary>
 
-1. Open the downloaded **`GLabsMusicForge-<version>-setup.exe`**.
+1. Open the downloaded **`G-Labs-Music-Forge-setup.exe`**.
 2. If **"Windows protected your PC"** (SmartScreen) appears: click **More info** → **Run anyway**. *(The app isn't code-signed with a Microsoft certificate, so it's flagged - it isn't a virus.)*
 3. Follow the installer. You can change the install folder if you want.
 4. Launch it from the **Start Menu** or the **Desktop** shortcut.

@@ -8,8 +8,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/duckmartians/G-Labs-Music-Forge/releases/latest"><img alt="Tải về cho Windows" src="https://img.shields.io/badge/T%E1%BA%A3i%20v%E1%BB%81-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>&nbsp;
-  <a href="https://github.com/duckmartians/G-Labs-Music-Forge/releases/latest"><img alt="Tải về cho macOS (Apple Silicon)" src="https://img.shields.io/badge/T%E1%BA%A3i%20v%E1%BB%81-macOS%20Apple%20Silicon-000000?style=for-the-badge&logo=apple&logoColor=white"></a>
+  <a href="https://github.com/duckmartians/G-Labs-Music-Forge/releases/latest/download/G-Labs-Music-Forge-setup.exe"><img alt="Tải về cho Windows" src="https://img.shields.io/badge/T%E1%BA%A3i%20v%E1%BB%81-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>&nbsp;
+  <a href="https://github.com/duckmartians/G-Labs-Music-Forge/releases/latest/download/G-Labs-Music-Forge-mac-arm64.dmg"><img alt="Tải về cho macOS (Apple Silicon)" src="https://img.shields.io/badge/T%E1%BA%A3i%20v%E1%BB%81-macOS%20Apple%20Silicon-000000?style=for-the-badge&logo=apple&logoColor=white"></a>
 </p>
 
 ---
@@ -22,8 +22,8 @@ Tải bản mới nhất từ **[Releases](https://github.com/duckmartians/G-Lab
 
 | Máy của bạn | Tải tệp | Ghi chú |
 |---|---|---|
-| 🪟 **Windows 10/11 (64-bit)** | [`GLabsMusicForge-<phiên bản>-setup.exe`](https://github.com/duckmartians/G-Labs-Music-Forge/releases/latest) | Bộ cài. Engine chạy bằng CPU, không cần card đồ hoạ |
-| 🍎 **Mac chip Apple (M1/M2/M3/M4)** | [`GLabsMusicForge-<phiên bản>-arm64.dmg`](https://github.com/duckmartians/G-Labs-Music-Forge/releases/latest) | Tách stem được tăng tốc GPU |
+| 🪟 **Windows 10/11 (64-bit)** | [`G-Labs-Music-Forge-setup.exe`](https://github.com/duckmartians/G-Labs-Music-Forge/releases/latest/download/G-Labs-Music-Forge-setup.exe) | Bộ cài. Engine chạy bằng CPU, không cần card đồ hoạ |
+| 🍎 **Mac chip Apple (M1/M2/M3/M4)** | [`G-Labs-Music-Forge-mac-arm64.dmg`](https://github.com/duckmartians/G-Labs-Music-Forge/releases/latest/download/G-Labs-Music-Forge-mac-arm64.dmg) | Tách stem được tăng tốc GPU |
 
 > **Chưa có bản cho Mac chip Intel.** Bản arm64 sẽ không mở được trên máy Intel.
 
@@ -32,7 +32,7 @@ Tải bản mới nhất từ **[Releases](https://github.com/duckmartians/G-Lab
 <details open>
 <summary><b>🪟 Trên Windows</b></summary>
 
-1. Mở tệp **`GLabsMusicForge-<phiên bản>-setup.exe`** vừa tải.
+1. Mở tệp **`G-Labs-Music-Forge-setup.exe`** vừa tải.
 2. Nếu hiện bảng **"Windows protected your PC"** (SmartScreen): bấm **More info** → **Run anyway**. *(App chưa mua chứng chỉ ký của Microsoft nên bị cảnh báo - không phải virus.)*
 3. Làm theo trình cài đặt. Bạn có thể đổi thư mục cài nếu muốn.
 4. Mở app từ **Start Menu** hoặc lối tắt trên **Desktop**.
