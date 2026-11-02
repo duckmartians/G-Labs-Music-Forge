@@ -33,7 +33,7 @@ Tải bản mới nhất từ **[Releases](https://github.com/duckmartians/G-Lab
 <summary><b>🪟 Trên Windows</b></summary>
 
 1. Mở tệp **`G-Labs-Music-Forge-setup.exe`** vừa tải.
-2. Nếu hiện bảng **"Windows protected your PC"** (SmartScreen): bấm **More info** → **Run anyway**. *(App chưa mua chứng chỉ ký của Microsoft nên bị cảnh báo - không phải virus.)*
+2. Bộ cài đã ký số, nhà phát hành **DUCKMARTIANS**. Nếu bản mới vẫn hiện bảng **"Windows protected your PC"** (SmartScreen), kiểm tra nhà phát hành là DUCKMARTIANS rồi bấm **More info** → **Run anyway**.
 3. Làm theo trình cài đặt. Bạn có thể đổi thư mục cài nếu muốn.
 4. Mở app từ **Start Menu** hoặc lối tắt trên **Desktop**.
 
@@ -161,7 +161,7 @@ bài hát.mp3 ──► giải mã ──► hợp âm/tông/tempo (chroma + Vit
 
 **Tách stem chậm trên Windows** - trên Windows engine chạy bằng CPU; chỉ Mac Apple Silicon được tăng tốc GPU.
 
-**Windows chặn ở "Windows protected your PC"** - bấm **More info → Run anyway**. App chưa mua chứng chỉ ký nên bị cảnh báo, không phải virus.
+**Windows hiện bảng "Windows protected your PC"** - bộ cài đã ký số DUCKMARTIANS, nhưng SmartScreen vẫn có thể cảnh báo với bản vừa phát hành. Kiểm tra nhà phát hành là DUCKMARTIANS rồi bấm **More info → Run anyway**.
 
 **macOS báo ứng dụng bị hỏng / không mở được** - app chưa được Apple ký. Chuột phải → **Open** ở lần đầu, hoặc chạy `xattr -dr com.apple.quarantine "/Applications/G-Labs Music Forge.app"`.
 

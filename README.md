@@ -33,7 +33,7 @@ Download the latest build from **[Releases](https://github.com/duckmartians/G-La
 <summary><b>🪟 On Windows</b></summary>
 
 1. Open the downloaded **`G-Labs-Music-Forge-setup.exe`**.
-2. If **"Windows protected your PC"** (SmartScreen) appears: click **More info** → **Run anyway**. *(The app isn't code-signed with a Microsoft certificate, so it's flagged - it isn't a virus.)*
+2. The installer is digitally signed by **DUCKMARTIANS**. If **"Windows protected your PC"** (SmartScreen) still appears for a brand-new version, check that the publisher shows DUCKMARTIANS, then click **More info** → **Run anyway**.
 3. Follow the installer. You can change the install folder if you want.
 4. Launch it from the **Start Menu** or the **Desktop** shortcut.
 
@@ -161,7 +161,7 @@ You can change the results folder in **Settings → Results folder**.
 
 **Stem splitting is slow on Windows** - on Windows the engine runs on the CPU; only Apple Silicon Macs get GPU acceleration.
 
-**Windows blocks it with "Windows protected your PC"** - click **More info → Run anyway**. The app isn't code-signed, so it's flagged - it isn't a virus.
+**Windows shows "Windows protected your PC"** - the installer is digitally signed by DUCKMARTIANS, but SmartScreen can still warn about a version that was just released. Check that the publisher is DUCKMARTIANS, then click **More info → Run anyway**.
 
 **macOS says the app is damaged / can't be opened** - it isn't signed by Apple. Right-click → **Open** the first time, or run `xattr -dr com.apple.quarantine "/Applications/G-Labs Music Forge.app"`.
 
